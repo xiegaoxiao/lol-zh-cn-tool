@@ -1,0 +1,16 @@
+/dist/
+/release/
+*.exe
+*.pdb
+*.log
+*.snapshot
+*.snapshot.tmp
+*.lol-zh-cn.bak
+*.lol-zh-cn.bak.meta
+product-guard-status.txt*
+/tests/run-*/
+/tests/*.png
+/tests/guard-other-files-before.json
+.vs/
+bin/
+obj/
